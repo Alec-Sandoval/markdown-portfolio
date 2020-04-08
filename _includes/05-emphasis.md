@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Software engineer with **10 years** of experience in the software industry. History of experience with **Angular**, **TypeScript**, **HTML**, **CSS**, **.NET**, **C#**, **T-SQL**, **Azure**, and **Git**. Experience with *DevOps*, *CI/CD*, and *Agile*. Obtained a *Masters in Computer Science* from Louisiana State University.
